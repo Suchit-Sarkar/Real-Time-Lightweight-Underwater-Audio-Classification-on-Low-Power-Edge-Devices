@@ -293,7 +293,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{marine_mammal_classification,
   title={Marine Mammal Classification with VGGish and Optuna},
-  author={Your Name},
+  author={Suchit Sarkar},
   year={2025},
   url={https://github.com/yourusername/marine-mammal-classification}
 }
