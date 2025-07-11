@@ -1,4 +1,4 @@
-# Marine Mammal Audio Classification System
+# Real-Time-Lightweight-Underwater-Audio-Classification-on-Low-Power-Edge-Devices
 
 ## Overview
 
