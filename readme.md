@@ -324,7 +324,7 @@ If you use this system in your research, please cite:
   title={Real-Time-Lightweight-Underwater-Audio-Classification-on-Low-Power-Edge-Devices},
   author={Suchit Sarkar},
   year={2025},
-  url={https://github.com/yourusername/marine-mammal-audio-classification}
+  url={https://github.com/Suchit-Sarkar/Real-Time-Lightweight-Underwater-Audio-Classification-on-Low-Power-Edge-Devices}
 }
 ```
 
