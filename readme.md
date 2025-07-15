@@ -320,10 +320,10 @@ For questions, dataset access, or collaborations:
 If you use this system in your research, please cite:
 
 ```bibtex
-@misc{marine_mammal_audio_classification,
-  title={Marine Mammal Audio Classification System: Real-time Dolphin Species Recognition},
-  author={Your Name},
-  year={2024},
+@misc{Real-Time-Lightweight-Underwater-Audio-Classification-on-Low-Power-Edge-Devices,
+  title={Real-Time-Lightweight-Underwater-Audio-Classification-on-Low-Power-Edge-Devices},
+  author={Suchit Sarkar},
+  year={2025},
   url={https://github.com/yourusername/marine-mammal-audio-classification}
 }
 ```
